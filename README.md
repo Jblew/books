@@ -173,3 +173,8 @@ Collecting TODO
 
 1. Braving the Wilderness: The quest for true belonging and the courage to stand alone by Brené Brown
 2. https://lubimyczytac.pl/ksiazka/65135/bohater-o-tysiacu-twarzy Joseph Campbell, Bohater o tysiącu twarzy — analiza porównawcza mitów. Monomit. Wędrówka bohatera. Rodzaje mitów
+3. Kapuściński
+4. Niezwyciężony, Stanisław Lem
+5. Głos Pana, Stanisław Lem
+6. Golem 14, Stanisław Lem
+7. 622 upadki Bunga, czyli Demoniczna kobieta, Stanisław Witkiewicz (Witkacy)
