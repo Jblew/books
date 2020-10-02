@@ -37,8 +37,8 @@ Collecting TODO
     Nicole Forsgren PhDNovember 24, 2019
 12. **The Chronicles of Narnia: The Lion, the Witch and the Wardrobe**, C. S. Lewis. ~August 2020
 13. **The Chronicles of Narnia: Prince Caspian: The Return to Narnia**, C. S. Lewis. ~August 2020
-14. ...
-
+14. The Price of Tomorrow: Why Deflation is the Key to an Abundant Future, Jeff Booth ~September 18 - October 2, 2020
+15. Imperium chmur, Jacek Dukaj ~September 2020-October 2, 2020
 
 
 ## Started
@@ -153,8 +153,6 @@ Collecting TODO
     Richard GarfieldJuly 7, 2020
 55. Chained to the Desk (Third Edition): A Guidebook for Workaholics, Their Partners and Children, and the Clinicians Who Treat Them 
     Bryan E. RobinsonAugust 14, 2020
-56. The Price of Tomorrow: Why Deflation is the Key to an Abundant Future 
-    Jeff BoothSeptember 18, 2020
 57. This Book Will Save You Time 
     Misir MahmudovSeptember 18, 2020
 58. The Sovereign Individual: Mastering the Transition to the Information Age 
