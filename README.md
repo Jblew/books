@@ -158,4 +158,18 @@ Collecting TODO
 58. The Sovereign Individual: Mastering the Transition to the Information Age 
 59. **Lingua Latina per se Illustrata, Pars I: Familia Romana (Latin Edition)** by Hans H. Ørberg ~2020
     **Colloquia Personarum (Lingua Latina) (Latin Edition)** by Hans H. Ørberg ~2020
-60. ...
+60. Dare to Lead, Brene Brown ~September 19, 2020
+61. Call Sign Chaos: Learning to Lead ~September 19, 2020
+62. Business Chemistry: Practical Magic for  Crafting Powerful Work Relationships ~September 19, 2020
+63. The Culture Code: The secrets of highly successful groups ~September 19, 2020
+64. Indistractable: How to Control Your Attention and Choose Your Life, Nir Eyal. ~September 22, 2020
+65. Hooked: How to Build Habit-Forming Products, Nir Eyal. ~September 22, 2020
+
+
+
+
+
+## Do przeczytania
+
+1. Braving the Wilderness: The quest for true belonging and the courage to stand alone by Brené Brown
+2. https://lubimyczytac.pl/ksiazka/65135/bohater-o-tysiacu-twarzy Joseph Campbell, Bohater o tysiącu twarzy — analiza porównawcza mitów. Monomit. Wędrówka bohatera. Rodzaje mitów
