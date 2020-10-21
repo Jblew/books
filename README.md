@@ -39,6 +39,7 @@ Collecting TODO
 13. **The Chronicles of Narnia: Prince Caspian: The Return to Narnia**, C. S. Lewis. ~August 2020
 14. The Price of Tomorrow: Why Deflation is the Key to an Abundant Future, Jeff Booth ~September 18 - October 2, 2020
 15. Imperium chmur, Jacek Dukaj ~September 2020-October 2, 2020
+16. Flow: The Psychology of Happiness , Mihaly Csikszentmihalyi ~May 28, 2020
 
 
 ## Started
@@ -53,7 +54,6 @@ Collecting TODO
 6. Magic of Impromptu Speaking: Create a Speech That Will Be Remembered for Years in Under 30 Seconds 
    Andrii SednievMarch 17, 2019
 7. The Moon Is a Harsh Mistress 
-   Update Available
    Robert A. HeinleinMarch 29, 2019
 8. Long Story Short: The Only Storytelling Guide You'll Ever Need 
    Margot LeitmanApril 22, 2019
@@ -145,8 +145,6 @@ Collecting TODO
     Cardinal MercierMay 16, 2020
 51. A Manual of Modern Scholastic Philosophy ( Volume 1 ) 
     Cardinal MercierMay 16, 2020
-52. Flow: The Psychology of Happiness 
-    Mihaly CsikszentmihalyiMay 28, 2020
 53. Eurogames: The Design, Culture and Play of Modern European Board Games 
     Stewart WoodsJuly 7, 2020
 54. Kobold Guide to Board Game Design (Kobold Guides to Game Design Book 4) 
@@ -154,7 +152,7 @@ Collecting TODO
 55. Chained to the Desk (Third Edition): A Guidebook for Workaholics, Their Partners and Children, and the Clinicians Who Treat Them 
     Bryan E. RobinsonAugust 14, 2020
 57. This Book Will Save You Time 
-    Misir MahmudovSeptember 18, 2020
+    Misir Mahmudov, September 18, 2020
 58. The Sovereign Individual: Mastering the Transition to the Information Age 
 59. **Lingua Latina per se Illustrata, Pars I: Familia Romana (Latin Edition)** by Hans H. Ørberg ~2020
     **Colloquia Personarum (Lingua Latina) (Latin Edition)** by Hans H. Ørberg ~2020
@@ -164,8 +162,10 @@ Collecting TODO
 63. The Culture Code: The secrets of highly successful groups ~September 19, 2020
 64. Indistractable: How to Control Your Attention and Choose Your Life, Nir Eyal. ~September 22, 2020
 65. Hooked: How to Build Habit-Forming Products, Nir Eyal. ~September 22, 2020
-
-
+64. Fratelli tutti, Pope Francis I ~October 2020
+65. Głos Pana, Stanisław Lem ~October 2020
+66. Niezwyciężony, Stanisław Lem ~October 2020
+67. Szewcy, Stanisław Ignacy Witkiewicz ~October 2020
 
 
 
